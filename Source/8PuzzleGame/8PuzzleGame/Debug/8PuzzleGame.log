@@ -1,0 +1,9 @@
+﻿  8PuzzleGame.cpp
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(142,21): warning C4018: '<': signed/unsigned mismatch
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(231,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(267,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\HK2_II\AI\ProjectAI\8PuzzleGame\8PuzzleGame\8PuzzleGame.cpp(348,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  8PuzzleGame.vcxproj -> E:\HK2_II\AI\ProjectAI\8PuzzleGame\Debug\8PuzzleGame.exe
