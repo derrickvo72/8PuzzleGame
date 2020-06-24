@@ -1,2 +1,2 @@
 # 8PuzzleGame
-Using Hill Climbing, SA, Random Restart
+Using Hill Climbing, SA, Random Restart algorithm
